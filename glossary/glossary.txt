@@ -802,3 +802,4 @@
 默克	Merck
 蓝眼	Blue Eyes
 巴洛	Balo
+野人	savage
