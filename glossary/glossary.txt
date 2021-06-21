@@ -806,3 +806,4 @@
 草原狮王吼	Grassland Lion King Roar
 莉娜	Lina
 安妮	Annie
+美洲豹	jaguar
