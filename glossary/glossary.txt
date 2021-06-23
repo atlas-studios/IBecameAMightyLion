@@ -807,3 +807,4 @@
 莉娜	Lina
 安妮	Annie
 美洲豹	jaguar
+阿丽莎	Alisa
