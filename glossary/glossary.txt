@@ -810,3 +810,4 @@
 阿丽莎	Alisa
 提伯斯	Tibbs
 扎哈	Zaha
+翼龙	Pterodactyl
