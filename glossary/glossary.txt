@@ -811,3 +811,4 @@
 提伯斯	Tibbs
 扎哈	Zaha
 翼龙	Pterodactyl
+恐鸟	moa
