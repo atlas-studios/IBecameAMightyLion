@@ -813,3 +813,4 @@
 翼龙	Pterodactyl
 恐鸟	moa
 爪芒	claw glint
+兽人	orc
