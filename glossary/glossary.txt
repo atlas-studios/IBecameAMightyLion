@@ -814,3 +814,4 @@
 恐鸟	moa
 爪芒	claw glint
 兽人	orc
+薇莉丝	Vilis
