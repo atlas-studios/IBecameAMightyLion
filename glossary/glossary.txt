@@ -836,3 +836,4 @@
 瑟娜	Senna
 麦娜	Myna
 卡特	Carter
+卡斯特	Kast
