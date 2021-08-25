@@ -837,3 +837,4 @@
 麦娜	Myna
 卡特	Carter
 卡斯特	Kast
+洛斯尼	Lusni
