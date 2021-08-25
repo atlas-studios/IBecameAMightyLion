@@ -838,3 +838,4 @@
 卡特	Carter
 卡斯特	Kast
 洛斯尼	Lusni
+盖克·	Geck
