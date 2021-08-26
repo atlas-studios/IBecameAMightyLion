@@ -843,3 +843,4 @@
 罗勃	Robert
 莫卡顿	Mocaton
 落日关	Sunset Pass
+摩西	Moses
