@@ -845,3 +845,4 @@
 落日关	Sunset Pass
 摩西	Moses
 弗恩	Furn
+丹诺塔	Danota
