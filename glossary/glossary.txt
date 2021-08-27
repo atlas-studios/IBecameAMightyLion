@@ -847,3 +847,4 @@
 弗恩	Furn
 丹诺塔	Danota
 卡罗多	Carlo
+索维尔	Sorvil
