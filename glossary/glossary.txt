@@ -850,3 +850,5 @@
 索维尔	Sorvil
 库克	Cook
 哈顿	Hatton
+多米洛	Domino
+卡摩多	Camodo
