@@ -852,3 +852,5 @@
 哈顿	Hatton
 多米洛	Domino
 卡摩多	Camodo
+莫尔蒙	Mormont
+冰罗	Bingluo
