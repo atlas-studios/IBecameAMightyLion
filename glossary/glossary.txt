@@ -860,3 +860,4 @@
 莫里	Mori
 阿蒂	Athies
 罗刹国	Rakshasha Kingdom
+对子	Couplets
