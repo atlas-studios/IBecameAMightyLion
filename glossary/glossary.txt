@@ -861,3 +861,4 @@
 阿蒂	Athies
 罗刹国	Rakshasha Kingdom
 对子	Couplets
+文会	scholarly meet
