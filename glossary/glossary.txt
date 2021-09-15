@@ -862,3 +862,8 @@
 罗刹国	Rakshasha Kingdom
 对子	Couplets
 文会	scholarly meet
+霸王龙	T-rex
+似棘龙	Parasaurolophus
+突棘龙	Baryonyx
+剑龙	Stegosaurus
+三角龙	Triceratops
