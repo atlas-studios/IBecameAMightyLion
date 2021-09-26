@@ -867,3 +867,4 @@
 突棘龙	Baryonyx
 剑龙	Stegosaurus
 三角龙	Triceratops
+罗斯特	Loster
